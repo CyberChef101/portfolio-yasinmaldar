@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Yasin Maldar - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello! I'm Yasin Maldar, a passionate Computer Engineering undergraduate specializing in full-stack web development with expertise in the **MERN stack**. I enjoy solving complex problems and building intuitive, user-friendly applications. Let's connect and create something amazing together!
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Table of Contents
+1. [About Me](#about-me)
+2. [Skills](#skills)
+3. [Projects](#projects)
+4. [Certifications](#certifications)
+5. [Contact](#contact)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About Me
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I'm currently pursuing my **B.E. in Computer Engineering** at **Sinhgad Institute of Technology, Lonavla**, and have gained hands-on experience in **full-stack web development** using **JavaScript**, **ReactJS**, **Node.js**, **ExpressJS**, and **MongoDB**.
 
-### `npm test`
+I have worked on several projects, including a **MERN stack Ed-Tech platform** and a **Weather App**. I also interned as a Data Structures and Algorithms problem solver at **Skolar**, where I enhanced my algorithmic problem-solving skills.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I am constantly learning and looking for new opportunities to apply my skills and collaborate with like-minded professionals.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Skills
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Languages**: JavaScript (80%), C++ (85%)
+- **Web Development**: ReactJS (75%), Node.js (70%), ExpressJS (75%), HTML5 (90%), CSS (85%), TailwindCSS (80%)
+- **Database**: MongoDB (65%), MySQL (70%)
+- **Tools**: Git (80%), Postman API Testing (70%), Android Studio (60%), GitHub (85%)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Projects
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 1. **YouTube Backend**
+- **Tech Stack**: ExpressJS
+- **Description**: A replica of the YouTube backend that focuses on video handling and server-side logic.
+- **GitHub Link**: [YouTube Backend](https://github.com/CyberChef101/YouTube-Backend)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 2. **StudyNotion Ed-Tech Platform**
+- **Tech Stack**: HTML5, CSS, TailwindCSS, JavaScript, ExpressJS, MongoDB
+- **Description**: A full-stack web application for buying and selling courses. Built using the MERN stack.
+- **GitHub Link**: [StudyNotion](https://github.com/CyberChef101/StudyNotion)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 3. **Weather App**
+- **Tech Stack**: HTML5, CSS, TailwindCSS, JavaScript, OpenWeather API
+- **Description**: A weather application that provides location-based weather information using the OpenWeather API.
+- **GitHub Link**: [Weather App](https://github.com/CyberChef101/Weather-App)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Certifications
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Data Structures and Algorithms** by Skolar
+- **Java for Android** by Coursera
+- **Oracle Certified Foundation Associate** by Oracle Corporation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **LinkedIn**: [Yasin Maldar LinkedIn](https://www.linkedin.com/in/yasin-maldar-992508164/)
+- **GitHub**: [Yasin Maldar GitHub](https://github.com/CyberChef101)
+- **Email**: [yasinmaldar.sit.comp@gmail.com](mailto:yasinmaldar.sit.comp@gmail.com)
+- **Phone**: +91-7620591273
