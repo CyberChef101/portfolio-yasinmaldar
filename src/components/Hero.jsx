@@ -53,7 +53,7 @@ const Hero = () => {
             className="flex flex-col items-center"
             whileHover={{ scale: 1.1 }}
           >
-            <span className="text-4xl font-bold text-yellow-400">3+</span>
+            <span className="text-4xl font-bold text-yellow-400">1+</span>
             <span className="text-sm">Years Experience</span>
           </motion.div>
           <motion.div
