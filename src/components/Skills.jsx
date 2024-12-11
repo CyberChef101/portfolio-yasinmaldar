@@ -12,9 +12,8 @@ const skills = [
   { name: 'Postman API Testing', level: '70%' },
   { name: 'MySQL', level: '70%' },
   { name: 'Android Studio', level: '60%' },
-  { name: 'GitHub', level: '85%' }
+  { name: 'GitHub', level: '85%' },
 ];
-
 
 const Skills = () => {
   return (
@@ -25,16 +24,21 @@ const Skills = () => {
           {skills.map((skill, index) => (
             <div
               key={index}
-              className="bg-white p-6 shadow-lg rounded-lg transform hover:scale-105 transition duration-300"
+              className="bg-white p-6 shadow-lg rounded-lg transform hover:scale-105 transition-transform duration-300"
+              aria-label={`Skill ${skill.name}`}
             >
               <h3 className="text-xl font-semibold mb-4 text-gray-800">{skill.name}</h3>
-              <div className="relative w-full h-4 bg-gray-200 rounded-full">
+              <div className="relative w-full h-4 bg-gray-200 rounded-full overflow-hidden">
                 <div
-                  className="absolute top-0 left-0 h-4 bg-blue-500 rounded-full"
-                  style={{ width: skill.level }}
+                  className="absolute top-0 left-0 h-full bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full"
+                  style={{
+                    width: skill.level,
+                    transition: 'width 1.5s ease-in-out',
+                  }}
+                  aria-label={`${skill.level} proficiency in ${skill.name}`}
                 ></div>
               </div>
-              <p className="mt-2 text-gray-700">{skill.level}</p>
+              <p className="mt-2 text-gray-700 font-medium">{skill.level}</p>
             </div>
           ))}
         </div>
